@@ -1,0 +1,15 @@
+.jumbotron{
+    padding: 2em;
+}
+.jumbotron p{
+    font-size: 1.3em;
+}
+.row {
+    padding-top: 2em;
+}
+.row h3{
+    font-size: 1.3em;
+}
+.row p{
+    font-size: 0.8em;
+}
